@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Counter /> Assert DOM stability via snapshot 1`] = `
+<section>
+  <div>
+    <div
+      id="text"
+    >
+      <h2
+        id="h2"
+      >
+        Cou
+        <span
+          id="offset"
+        >
+          nter[
+          0
+          ]
+        </span>
+      </h2>
+    </div>
+  </div>
+  <button
+    id="rss2"
+    onClick={[Function]}
+  >
+    +
+  </button>
+  <button
+    id="rss1"
+    onClick={[Function]}
+  >
+    -
+  </button>
+</section>
+`;
