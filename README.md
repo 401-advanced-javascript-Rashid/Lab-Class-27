@@ -4,8 +4,8 @@
 
 ## Links and Resources
 
-- [submission PR]()
-- [ci/cd]()
+- [submission PR](https://github.com/401-advanced-javascript-Rashid/Lab-Class-27/pull/1)
+- [ci/cd](https://github.com/401-advanced-javascript-Rashid/Lab-Class-27/runs/490672335?check_suite_focus=true)
 ## Setup
 
   -  @testing-library/jest-dom : 4.2.4
@@ -27,3 +27,4 @@
 - npm run start
 
 ## UML 
+https://raw.githubusercontent.com/401-advanced-javascript-Rashid/Lab-Class-27/React-Testing/assest/20200306_182304.jpg
